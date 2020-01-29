@@ -1,5 +1,0 @@
-,R2,MSE
-LR1(Training),0.02,0.44
-LR1(Test),0.01,0.34
-LR2(Training),0.016,0.39
-LR2(Test),0.01,0.28
